@@ -112,3 +112,8 @@ When inviting your bot, make sure it has:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Support
+
+For issues, questions, or suggestions, feel free to contact me:  
+[![Discord](https://img.shields.io/badge/Message%20me%20on%20Discord-ethanocurtis-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/167485961477947392)
